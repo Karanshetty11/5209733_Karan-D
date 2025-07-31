@@ -6,8 +6,12 @@ This repository showcases my assignment work, including my Git certificate, vari
 
 ## All Assignment Visuals
 
+### SDLC Process Screenshots
+![Completed SDLC Process](SDLC/cpmpleted_SDLC.png)
+![Quiz SDLC Screenshot](SDLC/quiz_SDLC.png)
+
 ### Git Certificate
-![Git Certificate](GIT/GIT_CERTIFICATE.png)
+![Git Certificate](GIT/CERTIFICATE_GIT.png)
 
 ### Linux Command Screenshots
 ![Linux Command 1](Linux/command1.png)
@@ -26,10 +30,6 @@ This repository showcases my assignment work, including my Git certificate, vari
 ![Linux Command 14](Linux/command14.png)
 ![Linux Command 15](Linux/command15.png)
 ![Linux Command 16](Linux/command16.png)
-
-### SDLC Process Screenshots
-![Completed SDLC Process](SDLC/cpmpleted_SDLC.png)
-![Quiz SDLC Screenshot](SDLC/quiz_SDLC.png)
 
 ---
 
