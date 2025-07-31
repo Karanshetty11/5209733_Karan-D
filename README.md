@@ -11,7 +11,7 @@ This repository showcases my assignment work, including my Git certificate, vari
 ![Quiz SDLC Screenshot](SDLC/quiz_SDLC.png)
 
 ### Git Certificate
-![Git Certificate](GIT/GIT_CERTIFICATE.png)  <-- THIS LINE IS NOW CORRECTED FOR YOUR FILENAME
+![Git Certificate](GIT/GIT_CERTIFICATE.png)  
 
 ### Linux Command Screenshots
 ![Linux Command 1](Linux/command1.png)
