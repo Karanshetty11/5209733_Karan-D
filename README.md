@@ -34,8 +34,8 @@ This repository showcases my assignment work, including my Git certificate, vari
 ![Linux Command 16](Linux/command16.png)
 
 ### C Programming Certificates
-![SoloLearn Intermediate C Certificate](GIT/INTERMEDIATE_C_CERTIFICATE.jpg)
-![SoloLearn Introduction to C Certificate](GIT/INTRODUCTION_TO_C_CERTIFICATE.jpg)
+![SoloLearn Intermediate C Certificate](GIT/INTERMEDIATE_C_CERTIFICATE.png)
+![SoloLearn Introduction to C Certificate](GIT/INTRODUCTION_TO_C_CERTIFICATE.png)
 
 ---
 
