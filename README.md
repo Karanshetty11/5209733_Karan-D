@@ -33,15 +33,19 @@ This repository showcases my assignment work, including my Git certificate, vari
 ![Linux Command 15](Linux/command15.png)
 ![Linux Command 16](Linux/command16.png)
 
+
+
 ### C Programming Certificates
-![SoloLearn Intermediate C Certificate](GIT/INTERMEDIATE_C_CERTIFICATE.png)
-![SoloLearn Introduction to C Certificate](GIT/INTRODUCTION_TO_C_CERTIFICATE.png)
+![SoloLearn Intermediate C Certificate](C Programming/SOLOLEARN/INTERMEDIATE C.png)
+![SoloLearn Introduction to C Certificate](C Programming/SOLOLEARN/INTRODUCTION TO C.png)
+
 
 ---
 
 ## Repository Details
 
 ### Folder Structure:
-- `GIT/`: Contains my Git certificate and SoloLearn C programming certificates (PNG).
+- `GIT/`: Contains my Git certificate.
+- `C Programming/SOLOLEARN/`: Contains SoloLearn C programming certificates (PNG).
 - `SDLC/`: Contains my SDLC related documents and images.
 - `Linux/`: Contains screenshots of Linux commands and terminal sessions.
