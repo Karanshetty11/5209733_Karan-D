@@ -17,6 +17,23 @@ This repository showcases my assignment work, including my Git certificate, vari
 ![SoloLearn Intermediate C Certificate](SOLOLEARN/INTERMEDIATE.png)
 ![SoloLearn Introduction to C Certificate](SOLOLEARN/INTRODUCTION.png)
 
+### C Programming Assignments (Weekly Exercises)
+*   **Week 1:**
+    *   [Counting Sort 1.c](C%20Programming/WEEK1/Counting%20Sort%201.c)
+    *   [Diagonal Difference.c](C%20Programming/WEEK1/Diagonal%20Difference.c)
+    *   [Flipping bits.c](C%20Programming/WEEK1/Flipping%20bits.c)
+    *   [Lonely Integer.c](C%20Programming/WEEK1/Lonely%20Integer.c)
+    *   [Mini-Max Sum.c](C%20Programming/WEEK1/Mini-Max%20Sum.c)
+    *   [Plus Minus.c](C%20Programming/WEEK1/Plus%20Minus.c)
+    *   [Sparse Arrays.c](C%20Programming/WEEK1/Sparse%20Arrays.c)
+    *   [Time Conversion.c](C%20Programming/WEEK1/Time%20Conversion.c)
+*   **Week 2:**
+    *   (No files yet)
+*   **Week 3:**
+    *   (No files yet)
+*   **Week 4:**
+    *   (No files yet)
+
 ### Linux Command Screenshots
 ![Linux Command 1](Linux/command1.png)
 ![Linux Command 2](Linux/command2.png)
@@ -42,6 +59,6 @@ This repository showcases my assignment work, including my Git certificate, vari
 ### Folder Structure:
 - `GIT/`: Contains my Git certificate.
 - `SOLOLEARN/`: Contains SoloLearn C programming certificates (PNG).
+- `C Programming/`: Contains weekly C programming assignment folders (e.g., `WEEK1`, `WEEK2`).
 - `SDLC/`: Contains my SDLC related documents and images.
 - `Linux/`: Contains screenshots of Linux commands and terminal sessions.
-- `C Programming/`: Contains other C Programming related files (e.g., WEEK1-WEEK4).
